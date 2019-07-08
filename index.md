@@ -8,8 +8,10 @@ I currently lead the [Systems Discovery]() group at the [Wyss Institute for Biol
 
 
 
-## GitHub repos
-A list of my public repos:
+## GitHub
+
+### Public Repos
+A list of some of my public repositories. Happy to talk to you more about these.
 
  - [DrugMineR](https://github.com/diogocamacho/drugminer): An R package for querying drugs/compounds in order to extract metadata on these drugs. Data is collated from PubChem and KEGG for now, with expansions coming in the future.
 
@@ -20,6 +22,9 @@ A list of my public repos:
  - [rpegeos](http://www.github.com/diogocamacho/rpegeos): An R package for the enrichment of pathways using natural language processing concepts.
 
  - [oranges](http://www.github.com/diogocamacho/oranges): An R package for the enrichment of pathways using Fisher's exact test. Limited to human pathways.
+
+### Repositories for Papers
+These repositories hold data/code for analyses performed on different papers. I include a link to the paper itself for completeness.
 
  - [Jalili et al., 2019](http://www.github.com/diogocamacho/jalili_microbiome): Analyses of microbiome data in a microfluidic anaerobic chamber. Paper by Jalili et al. [paper](https://www.nature.com/articles/s41551-019-0397-0)
 
