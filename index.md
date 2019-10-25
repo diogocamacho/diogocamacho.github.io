@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a formally trained biochemist with graduate and post-doctoral work in Computational Systems Biology. Most of my work has been on applications of machine learning tools for the inference of biologically relevant networks, with a particular focus on gene regulatory networks. You can find my CV [here](https://github.com/diogocamacho/CV/blob/master/DMC.pdf).
+I am a formally trained biochemist with graduate and post-doctoral work in Computational Systems Biology. Most of my work has been on applications of machine learning tools in biology, with a particular focu for the inference of biologically relevant networks. You can find my CV [here](https://github.com/diogocamacho/CV/blob/master/DMC.pdf).
 
-I currently lead the [Systems Discovery]() group at the [Wyss Institute for Biologically Inspired Engineering](wyss.harvard.edu). Do not hesitate to [reach out](mailto:diogo.camacho@wyss.harvard.edu) to find out about what we are currently working on, new job opportunities, or engage in novel collaborations.
+I currently lead the [Machine Intelligence and Data Analytics (MIDAS)](www.github.com/midas.github.io) lab at the [Wyss Institute for Biologically Inspired Engineering](wyss.harvard.edu). Do not hesitate to [reach out](mailto:diogo.camacho@wyss.harvard.edu) to find out about what we are currently working on, new job opportunities, or engage in novel collaborations.
 
 
 
