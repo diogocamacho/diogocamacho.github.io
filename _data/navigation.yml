@@ -1,12 +1,12 @@
-main:
-  - title: "Home"
-    url: /docs/index/
-  - title: "CV"
-    url: /docs/cv/
-  - title: "Projects"
-    url: /docs/year-archive/
-  - title: "Consulting"
-   url: /docs/consulting/
+# main:
+#   - title: "Home"
+#     url: /docs/index/
+#   - title: "CV"
+#     url: /docs/cv/
+#   - title: "Projects"
+#     url: /docs/year-archive/
+#   - title: "Consulting"
+#    url: /docs/consulting/
 #  - title: "Tags"
 #    url: /tags/
 #  - title: "Pages"
