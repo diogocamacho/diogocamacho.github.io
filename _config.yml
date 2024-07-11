@@ -5,7 +5,7 @@
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 # theme: jekyll-theme-midnight
-theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
 locale: "en-US"
 title: Computing Biology
