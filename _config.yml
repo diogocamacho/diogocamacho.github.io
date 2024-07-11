@@ -9,9 +9,10 @@
 # source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 
-remote_theme: minimal-mistakes-jekyll 
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
 locale: "en-US"
+
 title: Computing Biology
 subtitle: 2024
 description: A place to share my experience, thoughts, and ideas on Computational Biology and Machine Learning
@@ -44,6 +45,8 @@ author:
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://calendly.com/diogo-camacho"
   
+include: ["_pages"]  
+  
 # defaults for pages
 defaults:
   # _pages
@@ -63,8 +66,8 @@ defaults:
         nav: "docs"      
 
 # navigation 
-sidebar:
-  # _pages
-  nav: "docs"
+# sidebar:
+#   # _pages
+#   nav: "docs"
   
   

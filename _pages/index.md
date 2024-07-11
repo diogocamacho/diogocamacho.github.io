@@ -2,8 +2,12 @@
 layout: page
 title: "Computational Biology and ML for Drug Discovery"
 id: home
-sidebar_label: "Home"
+sidebar:
+  nav: "docs"
 ---
+
+Bim bam boom.
+
 
 
 # Body of Work

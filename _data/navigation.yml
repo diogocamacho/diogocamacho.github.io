@@ -27,16 +27,19 @@
   
 docs:
   - title: Home
+    url: /docs/index/
   
-#  - title: CV
+  - title: CV
+    url: /docs/cv/  
 
   - title: Projects
     children:
       - title: "DRUID"
-#        url: /docs/configuration/
+        url: /docs/druid/
       - title: "DrugMiner"
 #        url: /docs/navigation/
 
   - title: Consulting
+    url: /docs/consulting/
 
   - title: Publications
