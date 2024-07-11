@@ -27,7 +27,7 @@
   
 docs:
   - title: Home
-    url: /docs/index/
+    url: "_pages/index.md"
   
   - title: CV
     url: /docs/cv/  
