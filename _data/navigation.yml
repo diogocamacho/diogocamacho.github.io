@@ -16,30 +16,33 @@
 #    target: _blank
     
     
-# sidebar nav
+# SIDEBAR
 # sidebar:
 #  - home
 #  - cv
-#  - projects
+#  - label: Projects
+#    children:
+#      - druid
+#      - drugminer
 #  - consultancy
 #  - publications
   
   
-docs:
-  - title: Home
-    url: "_pages/index.md"
-  
-  - title: CV
-    url: /docs/cv/  
-
-  - title: Projects
-    children:
-      - title: "DRUID"
-        url: /docs/druid/
-      - title: "DrugMiner"
-#        url: /docs/navigation/
-
-  - title: Consulting
-    url: /docs/consulting/
-
-  - title: Publications
+# docs:
+#   - title: Home
+#     url: _pages/index.md
+#   
+#   - title: CV
+#     url: /docs/cv/  
+# 
+#   - title: Projects
+#     children:
+#       - title: "DRUID"
+#         url: /docs/druid/
+#       - title: "DrugMiner"
+# #        url: /docs/navigation/
+# 
+#   - title: Consulting
+#     url: /docs/consulting/
+# 
+#   - title: Publications
