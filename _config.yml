@@ -9,8 +9,7 @@
 # source 'https://rubygems.org'
 # gem 'github-pages', group: :jekyll_plugins
 
-
-theme: minimal-mistakes-jekyll 
+remote_theme: minimal-mistakes-jekyll 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
 locale: "en-US"
 title: Computing Biology
