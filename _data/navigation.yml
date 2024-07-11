@@ -1,13 +1,15 @@
 main:
   - title: "Home"
-    url: /_pages/index/
+    url: /docs/index/
+  - title: "CV"
+    url: /docs/cv/
   - title: "Projects"
-    #url: /year-archive/
+    url: /docs/year-archive/
   - title: "Consulting"
-#    url: /categories/
+   url: /docs/consulting/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "Pages"
+#  - title: "Pages"
 #    url: /page-archive/
 #  - title: "External Link"
 #    url: https://google.com

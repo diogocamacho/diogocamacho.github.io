@@ -24,16 +24,6 @@ words_per_minute: 200
 layout: single
 toc: false
 
-
-# defaults for pages
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
 # my info
 author:
   name: "Diogo M. Camacho"
@@ -53,5 +43,19 @@ author:
     - label: "Calendly"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://calendly.com/diogo-camacho"
+  
+# defaults for pages
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# navigation 
+sidebar:
+  # _pages
+  nav: "docs"
   
   
