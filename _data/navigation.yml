@@ -1,8 +1,8 @@
 main:
   - title: "Home"
-    url: /docs/index/
+    url: /_pages/index/
   - title: "Projects"
-    url: /year-archive/
+    #url: /year-archive/
   - title: "Consulting"
 #    url: /categories/
 #  - title: "Tags"
