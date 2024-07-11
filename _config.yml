@@ -5,6 +5,11 @@
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 # theme: jekyll-theme-midnight
+
+# source 'https://rubygems.org'
+# gem 'github-pages', group: :jekyll_plugins
+
+
 theme: minimal-mistakes-jekyll 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
 locale: "en-US"
