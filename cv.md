@@ -4,22 +4,16 @@ id: cv
 sidebar_label: "CV"
 ---
 
-# Soft Skills
+## Executive Summary
+I am a highly effective and experienced executive in Computational System Biology and Machine Learning, focusing on the  development and implementation of computational platforms in biotech/pharma. Adept strategist and operational leader, interested in the application of computational tools in the drug discovery, disease biology characterization, large data analytics for biology, while focusing on bridging the gap between the wet and dry labs. Extensive experience in bringing novel data solutions to the organization, to extend data utilization to empower ML models.
+
+## Soft Skills
 Servant Leadership | Mentorship | Operational Leadership | Team Building | Communication | Interdisciplinary Collaboration | External Partnerships | Board Communication | Founding VC Partners Communication | Corporate Partners Communication
 
-# Technical Skills
+## Technical Skills
 Computational and Data Strategy | Strategic Planning | Machine learning | Deep learning | Multi-omics data analyses | R/Bioconductor | Python | AWS | Git
 
-# Education
-**<span style="font-size:1em;">Virginia Polytechnic Institute and State University</span>** \hfill _Blacksburg, VA_  
-Ph.D. in Genetics, Bioinformatics, and Computational Biology
-
-**<span style="font-size:1em;">Faculdade de Ciências da Universidade de Lisboa</span>** \hfill _Lisboa, Portugal_  
-B. Sc. in Biochemistry
-
-
-
-# Experience
+## Experience
 **<span style="font-size:1em;">42 Bio LLC</span>** \hfill _Sudbury, MA_  
 Founder/Owner, Chief Scientist \hfill _March 2024 - Present_
 
@@ -106,23 +100,14 @@ Post-doctoral Fellow \hfill _July 2007 - January 2011_
  
 Post-doctoral training with Dr. James Collins at Boston University, focusing on the application of machine learning and network inference approaches in biomedicine. 
 
-<!-- Some efforts included:  -->
+## Education
+**<span style="font-size:1em;">Virginia Polytechnic Institute and State University</span>** \hfill _Blacksburg, VA_  
+Ph.D. in Genetics, Bioinformatics, and Computational Biology
 
-<!--  - Developed a network inference algorithm for identification of regulatory architectures of pathways -->
-<!--  - Identified a novel mechanism of action for antifungal drugs using transcriptomics and metabolomics data -->
-<!--  - Identified and characterized the small RNA regulatory network in bacterial systems using gene expression data -->
-<!--  - Performed data analysis of gene expression data and metabolomics data in bacterial and fungal systems -->
+**<span style="font-size:1em;">Faculdade de Ciências da Universidade de Lisboa</span>** \hfill _Lisboa, Portugal_  
+B. Sc. in Biochemistry
 
- 
-<!-- # Awards and Grants
-**<span style="font-size:1em;">Molecular circuits in the hematopoietic stem cell niche (NIH)</span>** \hfill _$415,000_  
-co-Investigator \hfill _9/1/20_  
-
-**<span style="font-size:1em;">Synergistic Discovery and Design	(DARPA)</span>** \hfill _$2,000,000_  
-co-PI \hfill _9/1/17_  -->
-
-
-# Publications
+## Publications
  - Valeri, JA, Soenksen, LR, Collins, KM, Ramesh, P, Cai, G, Powers, R, Angenent--Mari, NA, **Camacho, DM**, Wong, F, Lu, TK, Collins, JJ (2023), BioAutoMATED: An end-to-end automated machine learning tool for explanation and design of biological sequences, _Cell Systems_, 14, 525 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37348466/)
  - Sperry, MM, Novak, R, Keshari, V, Dinis, ALM, Cartwright, MJ, **Camacho, DM**, Paré, JF, Super, M, Levin, M, Ingber, DE (2022), Enhancers of host immune tolerance to bacterial infection discovered using linked computational and experimental approaches, _Adv Sci_ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35706367/)
  - Gazzaniga, FS, **Camacho, DM**, Wu, M, Palazzo, MFS, Dinis, ALM, Grafton, FN, Cartwright, MJ, Super, M, Kasper, DL, Ingber, DE (2021), Harnessing Colon Chip technology to identify commensal bacteria that promote host tolerance to infection, _Frontiers in Cellular and Infection Microbiology_, 11, 105 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33777849/)
@@ -145,8 +130,7 @@ co-PI \hfill _9/1/17_  -->
  - **Camacho, D**, de la Fuente, A, Mendes, P (2005), The origin of correlations in metabolomics data, _Metabolomics_, 1, 53-63 [Link](https://link.springer.com/article/10.1007/s11306-005-1107-3)
  - Martins, AM, **Camacho, D**, Shuman, J, Sha, W, Mendes, P, Shulaev, V (2004), A systems biology study of two distinct growth phases of _Saccharomyces cerevisiae_ cultures, _Curr. Genomics_, 5, 649-663 [Link](https://www.ingentaconnect.com/content/ben/cg/2004/00000005/00000008/art00005)
 
-
-# Patents
+## Patents
  - Methods for detecting cellular transitions (US Provisional, 63/612,266)
  - Disease detection systems and methods (US Providional, 63/612,320)
  - Systems and methods for predicting compounds associated with transcriptional signatures (US Non-provisional, 18/539,190; International PCT, PCT/US2023/083922)
@@ -154,3 +138,21 @@ co-PI \hfill _9/1/17_  -->
  - Complex Human Gut Microbiome Cultured in an Anaerobic Human Gut-on-A-Chip (US20240002808A1)
  - Riboregulators and methods of use thereof (International PCT, PCT/US2020/064695)
  - Compositions and methods for treating fungal infections (WO2014130922A1)
+ 
+ 
+
+
+<!-- Some efforts included:  -->
+
+<!--  - Developed a network inference algorithm for identification of regulatory architectures of pathways -->
+<!--  - Identified a novel mechanism of action for antifungal drugs using transcriptomics and metabolomics data -->
+<!--  - Identified and characterized the small RNA regulatory network in bacterial systems using gene expression data -->
+<!--  - Performed data analysis of gene expression data and metabolomics data in bacterial and fungal systems -->
+
+ 
+<!-- # Awards and Grants
+**<span style="font-size:1em;">Molecular circuits in the hematopoietic stem cell niche (NIH)</span>** \hfill _$415,000_  
+co-Investigator \hfill _9/1/20_  
+
+**<span style="font-size:1em;">Synergistic Discovery and Design	(DARPA)</span>** \hfill _$2,000,000_  
+co-PI \hfill _9/1/17_  -->

@@ -1,16 +1,50 @@
-# remote_theme: pages-themes/tactile@v0.2.0
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# theme: jekyll-theme-midnight
-title: Diogo M. Camacho, Ph.D.
-description: A place to keep things in place.
+# site definitions
 
-sidebar:
-  - home
-  - cv
-  - projects
-  - consultancy
-  - publications
+# remote_theme: pages-themes/tactile@v0.2.0
+# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# theme: jekyll-theme-midnight
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
+locale: "en-US"
+title: Computing Biology
+subtitle: 2024
+description: A place to share my experience, thoughts, and ideas on Computational Biology and Machine Learning
+repository: "diogocamacho/diogocamacho.github.io"
+logo: "/assets/images/42bio-logo.png"
+search: true
+show_date: true
+read_time: true
+words_per_minute: 200
+layout: single
+toc: false
+
+
+# defaults for pages
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# my info
+author:
+  name: "Diogo M. Camacho"
+  avatar: "/assets/images/my_pic.png"
+  bio: "Looking for patterns in biological data."
+  location: "Sudbury, USA"
+  links:
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:diogo.camacho.2008@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/diogocamacho"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/diogocamacho/"
   
   

@@ -1,0 +1,40 @@
+main:
+  - title: "Home"
+#    url: /docs/quick-start-guide/
+  - title: "Projects"
+#    url: /year-archive/
+  - title: "Consulting"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+  - title: "Pages"
+#    url: /page-archive/
+#  - title: "External Link"
+#    url: https://google.com
+#    target: _blank
+    
+    
+# sidebar nav
+# sidebar:
+#  - home
+#  - cv
+#  - projects
+#  - consultancy
+#  - publications
+  
+  
+docs:
+  - title: Home
+  
+  - title: CV
+
+  - title: Projects
+    children:
+      - title: "DRUID"
+#        url: /docs/configuration/
+      - title: "DrugMiner"
+#        url: /docs/navigation/
+
+  - title: Consulting
+
+  - title: Publications
