@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Computational Biology and ML for Drug Discovery"
 id: home
 sidebar_label: "Home"
