@@ -1,3 +1,6 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+# theme: jekyll-theme-midnight
 title: Diogo M. Camacho, Ph.D.
 description: A place to keep things in place.
