@@ -1,6 +1,19 @@
-remote_theme: pages-themes/tactile@v0.2.0
+# remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # theme: jekyll-theme-midnight
 title: Diogo M. Camacho, Ph.D.
 description: A place to keep things in place.
+
+sidebar:
+  - home
+  - cv
+  - projects
+    children: 
+    - druid
+    - drug-miner
+  - consultancy
+  - publications
+  
+  

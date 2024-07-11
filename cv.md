@@ -1,5 +1,7 @@
 ---
 layout: page
+id: cv
+sidebar_label: "CV"
 ---
 
 # Soft Skills
