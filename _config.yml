@@ -10,9 +10,6 @@ sidebar:
   - home
   - cv
   - projects
-    children: 
-    - druid
-    - drug-miner
   - consultancy
   - publications
   
