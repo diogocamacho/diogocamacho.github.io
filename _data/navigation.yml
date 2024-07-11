@@ -1,21 +1,13 @@
-# main:
-#   - title: "Home"
-#     url: /docs/index/
-#   - title: "CV"
-#     url: /docs/cv/
-#   - title: "Projects"
-#     url: /docs/year-archive/
-#   - title: "Consulting"
-#    url: /docs/consulting/
-#  - title: "Tags"
-#    url: /tags/
-#  - title: "Pages"
-#    url: /page-archive/
-#  - title: "External Link"
-#    url: https://google.com
-#    target: _blank
-    
-    
+main:
+  - title: "Home"
+    url: /docs/index/
+  - title: "CV"
+    url: /docs/cv/
+  - title: "Projects"
+    url: /docs/druid/
+  - title: "Consulting"
+   url: /docs/consulting/
+
 # SIDEBAR
 # sidebar:
 #  - home
@@ -28,21 +20,21 @@
 #  - publications
   
   
-# docs:
-#   - title: Home
-#     url: _pages/index.md
-#   
-#   - title: CV
-#     url: /docs/cv/  
-# 
-#   - title: Projects
-#     children:
-#       - title: "DRUID"
-#         url: /docs/druid/
-#       - title: "DrugMiner"
-# #        url: /docs/navigation/
-# 
-#   - title: Consulting
-#     url: /docs/consulting/
-# 
-#   - title: Publications
+docs:
+  - title: Home
+    url: _pages/index.md
+
+  - title: CV
+    url: /docs/cv/
+
+  - title: Projects
+    children:
+      - title: "DRUID"
+        url: /docs/druid/
+      - title: "DrugMiner"
+#        url: /docs/navigation/
+
+  - title: Consulting
+    url: /docs/consulting/
+
+  - title: Publications
