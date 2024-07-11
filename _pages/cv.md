@@ -1,8 +1,7 @@
 ---
 layout: page
 id: cv
-sidebar:
-  nav: "docs"
+sidebar_label: Experience
 ---
 
 ## Executive Summary

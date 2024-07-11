@@ -1,8 +1,7 @@
 ---
 layout: page
 id: druid
-sidebar:
-  nav: "docs"
+sidebar_label: DRUID
 ---
 
 Blah blah blah
