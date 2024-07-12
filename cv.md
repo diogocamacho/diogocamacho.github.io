@@ -26,20 +26,20 @@ Computational and Data Strategy | Strategic Planning | Machine learning | Deep l
 **42 Bio** (March 2024 - Present)\
 Founder/Owner, Chief Scientist
 
-**Cellarity** (July 2022 - February 2024)
+**Cellarity** (July 2022 - February 2024)\
 Vice President, Computational and Data Sciences
 
-**Rheos Medicines** (November 2020 - July 2022)
+**Rheos Medicines** (November 2020 - July 2022)\
 Senior Director, Computational Biology and Bioinformatics
 
-**Wyss Institute @ Harvard University** (July 2016 - November 2020)
+**Wyss Institute @ Harvard University** (July 2016 - November 2020)\
 Lead, Predictive BioAnalytics Initiative, Advanced Technology Team
 
-**Evelo Biosciences</span>** (January 2015 - April 2016)
+**Evelo Biosciences** (January 2015 - April 2016)\
 Senior Scientist, Computational Systems Biology Lead
 
-**Ember Therapeutics** (January 2014 - December 2014)
+**Ember Therapeutics** (January 2014 - December 2014)\
 Principal Scientist, Computational Systems Biology Lead
 
-**Pfizer** (January 2011 - January 2014)
+**Pfizer** (January 2011 - January 2014)\
 Senior Research Scientist, Computational Sciences Center of Emphasis
