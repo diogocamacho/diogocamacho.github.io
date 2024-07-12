@@ -21,7 +21,7 @@ author:
   location: "Sudbury, USA"
   links:
     - label: "E-mail"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-paper-plane"
       url: "mailto:diogo.camacho.2008@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -58,9 +58,8 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-readme-index
   - jekyll-mentions
-  - jekyll-remote-theme
-  - jekyll-redirect-from
-  
+
+
 # include: ["_pages"] 
 
 

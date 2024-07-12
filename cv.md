@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 ---
 
+<i class="fa fa-download"></i> [Download my CV]({{ site.url }}/DMC.pdf)
+
 <!--- ## Executive Summary
 I am a highly effective and experienced executive in Computational System Biology and Machine Learning, focusing on the  development and implementation of computational platforms in biotech/pharma. Adept strategist and operational leader, interested in the application of computational tools in the drug discovery, disease biology characterization, large data analytics for biology, while focusing on bridging the gap between the wet and dry labs. Extensive experience in bringing novel data solutions to the organization, to extend data utilization to empower ML models. --->
 
