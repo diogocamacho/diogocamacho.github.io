@@ -16,7 +16,7 @@ words_per_minute: 200
 # MY INFO
 author:
   name: "Diogo M. Camacho"
-  avatar: "/assets/images/my_pic.png"
+  avatar: "/assets/images/my_pic.jpg"
   bio: "Looking for patterns in biological data."
   location: "Sudbury, USA"
   links:

@@ -18,7 +18,7 @@ I am a highly effective and experienced executive in Computational System Biolog
  
 
 ## Leadership Skills
-Servant Leadership | Mentorship | Operational Leadership | Team Building | Communication | Interdisciplinary Collaboration | External Partnerships | Board Communication | Founding VC Partners Communication | Corporate Partners Communication
+Servant Leadership | Mentorship | Operational Leadership | Team Building | Communication | Interdisciplinary Collaboration | External Partnerships | Board Communication
 
 ## Technical Skills
 Computational and Data Strategy | Strategic Planning | Machine learning | Deep learning | Multi-omics data analyses | R/Bioconductor | Python | AWS | Git
