@@ -1,40 +1,49 @@
 main:
-  - title: "Home"
-    url: /docs/index/
-  - title: "CV"
-    url: /docs/cv/
-  - title: "Projects"
-    url: /docs/druid/
+  - title: "About"
+    url: "index"
+  - title: "Vitae"
+    url: "cv"
+  - title: "Publications"
+    url: "publications"
+  - title: "Research"
+    url: "research"
   - title: "Consulting"
-   url: /docs/consulting/
-
-# SIDEBAR
-# sidebar:
-#  - home
-#  - cv
-#  - label: Projects
-#    children:
-#      - druid
-#      - drugminer
-#  - consultancy
-#  - publications
-  
-  
-docs:
-  - title: Home
-    url: _pages/index.md
-
-  - title: CV
-    url: /docs/cv/
-
-  - title: Projects
-    children:
-      - title: "DRUID"
-        url: /docs/druid/
-      - title: "DrugMiner"
-#        url: /docs/navigation/
-
-  - title: Consulting
-    url: /docs/consulting/
-
-  - title: Publications
+    url: "consulting"
+  - title: "Software"
+    url: "software"
+  - title: "Blog"
+    url: "blog"
+  # - title: "Contact"
+  #   url: "contact"
+    
+    
+# # SIDEBAR
+# # sidebar:
+# #  - home
+# #  - cv
+# #  - label: Projects
+# #    children:
+# #      - druid
+# #      - drugminer
+# #  - consultancy
+# #  - publications
+#   
+#   
+# docs:
+#   - title: Home
+#     url: _pages/index.md
+# 
+#   - title: CV
+#     url: /docs/cv/
+# 
+#   - title: Projects
+#     children:
+#       - title: "DRUID"
+#         url: /docs/druid/
+#       - title: "DrugMiner"
+# #        url: /docs/navigation/
+# 
+#   - title: Consulting
+#     url: /docs/consulting/
+# 
+#   - title: Publications

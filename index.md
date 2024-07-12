@@ -1,27 +1,12 @@
 ---
-layout: page
-title: "Computational Biology and ML for Drug Discovery"
-id: home
-sidebar_label: About
+layout: single
+author_profile: true
 ---
 
-Bim bam boom.
+I am a highly effective and experienced executive in Computational System Biology and Machine Learning, focusing on the  development and implementation of computational platforms in biotech/pharma. Adept strategist and operational leader, interested in the application of computational tools in the drug discovery, disease biology characterization, large data analytics for biology, while focusing on bridging the gap between the wet and dry labs. Extensive experience in bringing novel data solutions to the organization, to extend data utilization to empower ML models.
 
 
-
-# Body of Work
-I have authored [peer-reviewed publications in diverse biological areas](https://scholar.google.com/citations?user=JjKJpygAAAAJ&hl=en), focusing on interdisciplinary mindsets to solve these problems. From machine learning approaches to synthetic biology to the analysis of microbiome data, I have always been interested in the application of computational approaches to biological problems. I have developed a few software packages for the analyses of biological data: 
+I got my B.Sc. in Biochemisty from the [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/), and my Ph.D. in [Genetics, Bioinformatics and Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) from Virginia Tech with [Pedro Mendes](https://facultydirectory.uchc.edu/profile?profileId=Mendes-Pedro). I got my post-doctoral training with [Jim Collins](https://en.wikipedia.org/wiki/James_J._Collins) at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/biomedical-engineering/).
 
 
-# Consultancy
-On my spare time I am available for consultancy work, with an increasing focus on computational and data strategies to help out small biotech companies. I can also provide help with the development and implementation of computational platforms for drug discovery, the analysis of large biological datasets, and the development of machine learning models for biological data. I am also available for speaking engagements, workshops, and training sessions. Please do not hesitate to [reach out](mailto:diogo.camacho.2008@gmail.com).
-
-# Newsletter
-With whatever minutes I have left in any given day or month I spend some time putting together a newsletter that I share on LinkedIn. If you are interested in receiving this newsletter, please [subscribe here](https://www.linkedin.com/newsletters/computing-biology-7216632062764593152/).
-
-
-# Stay in touch
-Many ways to engage with me:
-- [LinkedIn](https://www.linkedin.com/in/diogocamacho/)
-- [Calendly](https://calendly.com/diogocamacho)
-- [e-mail](mailto:diogo.camacho.2008@gmail.com)
+I am very passionate about science in general, and computational approaches to solve biological problems in particular. If you would like to chat about science, technology, computational approaches for drug discovery, reach out to me via [LinkedIn](https://www.linkedin.com/in/diogocamacho/) or use my [Calendly]("https://calendly.com/diogo-camacho"). I am always looking for new opportunities to collaborate and learn from others. And if you throw in a cup of coffee on some nice terrace in the Boston area, even better!

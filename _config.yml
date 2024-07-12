@@ -1,33 +1,19 @@
-# site definitions
-
-# THEME
-# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# theme: jekyll-theme-midnight
-
-# source 'https://rubygems.org'
-# gem 'github-pages', group: :jekyll_plugins
-
-remote_theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
-
-# SITE SETTINGGS
-locale: "en-US"
-
 title: Computing Biology
-subtitle: 2024
+# subtitle: 2024
 description: A place to share my experience, thoughts, and ideas on Computational Biology and Machine Learning
+baseurl: ""
+url: "https://diogocamacho.github.io"
 repository: "diogocamacho/diogocamacho.github.io"
-logo: "/assets/images/42bio-logo.png"
+# logo: "/assets/images/42bio-logo.png"
 search: true
 show_date: true
 read_time: true
 words_per_minute: 200
-layout: single
-toc: false
+# layout: single
+# toc: false
 
-# my info
+
+# MY INFO
 author:
   name: "Diogo M. Camacho"
   avatar: "/assets/images/my_pic.png"
@@ -46,26 +32,69 @@ author:
     - label: "Calendly"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://calendly.com/diogo-camacho"
+
+
+# site definitions
+
+# BUILD SETTINGS
+# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+# theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise
+locale: "en-US"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-include-cache
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-readme-index
+  - jekyll-mentions
+  - jekyll-remote-theme
+  - jekyll-redirect-from
   
-# include: ["_pages"]  
-  
-# defaults for pages
+# include: ["_pages"] 
+
+
+# DEFAULTS FOR POSTS
 defaults:
-  # _pages
+  # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  
+# defaults for pages
+# defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
 
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+# defaults:
+#   # _docs
+#   - scope:
+#       path: ""
+#       type: docs
+#     values:
+#       sidebar:
+#         nav: "docs"
 
 # sidebar:
 #  - home
